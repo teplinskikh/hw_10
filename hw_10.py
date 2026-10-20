@@ -5,4 +5,4 @@ for i in lst:
     if type(i) is str:
         cnt += 1
 
-print(f'Amount of strings: {cnt}')
+print(f'Amount of strings: {cnt}') 
